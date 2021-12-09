@@ -16,3 +16,7 @@ p {
     border: 5px dotted red;
     padding: 5px;
     }
+
+    p + p {
+        margin-top: 20px;
+    }
