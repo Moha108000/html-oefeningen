@@ -1,3 +1,8 @@
 body {
 background-color: lightseagreen;
 }
+
+a:hover {
+    color: lightseagreen;
+    background-color: black;
+}
