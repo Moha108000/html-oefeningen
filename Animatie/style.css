@@ -1,11 +1,11 @@
 img{
     cursor: crosshair;
-    filter: grayscale(1);
+    filter: saturate(100%);
     transition: filter 0.5s;
 }
 
 img:hover {
-filter: grayscale(0);
+filter: saturate(200%);
 }
 
 h1:hover {
